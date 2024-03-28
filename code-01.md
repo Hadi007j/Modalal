@@ -50,6 +50,8 @@ https://github.com/arazmoazzemi/Modalal/assets/67405217/7a312a6d-a56e-44b6-b276-
 ### ابزار های مورد استفاده :
 
 
+---
+![AI](https://github.com/arazmoazzemi/Modalal/assets/67405217/9c67c09f-650d-4107-9fa7-ab15c6470a0a)
 
 
 ---
