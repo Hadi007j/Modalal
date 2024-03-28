@@ -139,11 +139,16 @@ https://github.com/arazmoazzemi/Modalal/assets/67405217/7a312a6d-a56e-44b6-b276-
 
 ---
 آموزش تصویری بزودی آپلود خواهد شد
+
 ---
 
-```
+
+
+
+---
+### از لینک زیر استفاده کنید ... با آپدیت های جدید کدها برور خواهد شد
 https://github.com/arazmoazzemi/CodeProject.AI/blob/main/Installation.md
-```
+---
 
 
 
