@@ -148,7 +148,7 @@ https://github.com/arazmoazzemi/Modalal/assets/67405217/7a312a6d-a56e-44b6-b276-
 ---
 
 ### از لینک زیر استفاده کنید ... با آپدیت های جدید کدها برور خواهد شد
-[آموزش نصب و نحوه پیاده سازی کدها](https://github.com/arazmoazzemi/CodeProject.AI/blob/main/Installation.md)
+### [آموزش نصب و نحوه پیاده سازی کدها](https://github.com/arazmoazzemi/CodeProject.AI/blob/main/Installation.md)
 
 ---
 
