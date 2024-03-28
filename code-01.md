@@ -52,7 +52,8 @@ https://github.com/arazmoazzemi/Modalal/assets/67405217/7a312a6d-a56e-44b6-b276-
 
 ---
 
-![Uploading Capture.PNG…]()
+![Capture](https://github.com/arazmoazzemi/Modalal/assets/67405217/edf797f3-8c48-4b55-b9ed-9b7cfa79f832)
+
 
 
 
